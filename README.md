@@ -24,9 +24,10 @@ This application uses the **Redis adapter** for Action Cable broadcasting in the
 
 **Installation (macOS via Homebrew):**
 
-````bash
+```bash
 brew install redis
 brew services start redis
+```
 
 ## ⚙️ Setup and Installation
 
@@ -37,7 +38,7 @@ Follow these steps to get the application running on your local machine.
 ```bash
 git clone https://github.com/aaron/action_cable_demo.git
 cd action_cable_demo
-````
+```
 
 ### 2. Install Dependencies
 
