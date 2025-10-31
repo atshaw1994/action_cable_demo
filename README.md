@@ -4,4 +4,6 @@ This is a scratchpad application for me to learn to use ActionCable and Websocke
 
 ### Screenshot
 
+This screenshot was taken while using two seperate browser instances. The first was used to send messages 1, 2, and 3. The second was used to send message 4.
+
 ![Screenshot](Screenshot.png)
